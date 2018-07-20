@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  background-color: #27445a;
+  color: white;
+  align-items: center;
+  padding: 5px 20px;
+}
+
+li {
+  list-style: none;
+}
