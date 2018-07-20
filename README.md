@@ -5,7 +5,7 @@ A simple memory game made with Reactjs
 start the app with npm start
 
 ## Authors
-* Ryan Shores - @ryanshores
+* Ryan Shores - [ryanshores](@ryanshores)
 
 ## Thank To
-* @elie
+* Elie - [elie](@elie)
